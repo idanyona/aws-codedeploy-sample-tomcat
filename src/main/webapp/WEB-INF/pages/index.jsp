@@ -68,7 +68,7 @@
         <h1>Grand Opening!</h1>
         <p>To celebrate our grand opening, this week only all suits are <b>25% off</b> and include <b>free shipping!</b></p>
         <div class="row">
-          <h2><center>Transform your dog from silly to stylish!</center></h2>
+          <h2><center>Transform your dog from silly to stylish!!!</center></h2>
           <div class="col-sm-4">
             <center><img src="images/sales-lobsterdog.png" style="width:287px;height:360px;"></center>
           </div>
