@@ -104,7 +104,7 @@
       <div class="col-sm-4">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <h3 class="panel-title">Great for Family Photos</h3>
+            <h3 class="panel-title">Great for Family Photos!!</h3>
           </div>
           <div class="panel-body">
             With suits these fashionable, no one will question why your pet is there!
